@@ -2,7 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
       <title>Tim Holzer's Portfolio Website</title>
-      <link rel="stylesheet" type="text/css" href="css/homestyle.css">
+      <link rel="stylesheet" id="stylesheet" type="text/css" href="css/homestyle.css">
   </head>
   <body>
     <h1>Tech Demos</h1>
@@ -14,6 +14,11 @@
         <textarea style="resize:none" id="movie" name="movie" cols="55" rows="1" readonly></textarea>
       </form></p>
       <script type="text/javascript" src="js/moviesuggest.js"></script>
- 
+      <h3>Dark, Darker and Darkest mode</h3>
+      <p>Sometimes Dark Mode just isn't dark enough.</p>
+    <div class=mode>
+      <p><button id="normalmode">Normal Mode</button><button id="darkmode">Dark Mode</button><button id="darkermode">Darker Mode</button><button id="darkestmode">Darkest Mode</button></p>
+      <script type="text/javascript" src="js/modes.js"></script>
+    </div>
   </body>
 </html>

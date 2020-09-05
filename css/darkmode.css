@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(0, 0, 0);
+  }
+h1 {
+    text-align: center;
+    color: white;
+  }
+h2 {
+    text-align: center;
+    color: white;
+  }
+h3 {
+    text-align: center;
+    color: white;
+  }
+p {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    color: white;
+  }
+form {
+    text-align: center;
+    color: white;
+  }
