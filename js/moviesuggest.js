@@ -65,7 +65,7 @@ var movsugg= [
 'What We Do In The Shadows (2014)',
 'The Fall (2006)',
 'The Cell (2000)',
-'The Imaginarium of Doctor Parnassus (2009)',
+'The Imaginarium Of Doctor Parnassus (2009)',
 'Crouching Tiger, Hidden Dragon (2000)',
 'Hero (2002)',
 'House Of Flying Daggers (2004)',
@@ -74,6 +74,7 @@ var movsugg= [
 "Pan's Labyrinth (2006)",
 'Delicatessen (1991)',
 'Micmacs (2009)',
+'The City Of Lost Children (1995)',
 ];
 
 document.getElementById("randmovie").addEventListener("click", function(){

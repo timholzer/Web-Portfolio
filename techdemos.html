@@ -5,8 +5,11 @@
       <link rel="stylesheet" id="stylesheet" type="text/css" href="css/homestyle.css">
   </head>
   <body>
+    <nav>
+      <p><a class="nav" href="index.html"> Home</a> <a class="nav" href="wip.html" >Works In Progess</a> <a class="nav" href="projectideas.html" >Project Ideas</a></p>
+    </nav>
     <h1>Tech Demos</h1>
-      <p><a href="index.html"> Home</a> <a href="wip.html" >Works In Progess</a> <a href="projectideas.html" >Project Ideas</a></p>
+    <div class=movie>
     <h3>Movie Suggestion</h3>
       <p>Can't decide what to watch? Click the button for a random suggestion from a list of films that I've personally watched and rated. <br>I highly suggest giving the films from the 1930s a chance, there are some great lesser known films from that era.</p>
       <p><button id="randmovie">New Suggestion</button>
@@ -14,9 +17,10 @@
         <textarea style="resize:none" id="movie" name="movie" cols="55" rows="1" readonly></textarea>
       </form></p>
       <script type="text/javascript" src="js/moviesuggest.js"></script>
+    </div>
+    <div class=mode>
       <h3>Dark, Darker, and Darkest mode</h3>
       <p>Sometimes Dark Mode just isn't dark enough.</p>
-    <div class=mode>
       <p><button id="normalmode">Normal Mode</button><button id="darkmode">Dark Mode</button><button id="darkermode">Darker Mode</button><button id="darkestmode">Darkest Mode</button></p>
       <script type="text/javascript" src="js/modes.js"></script>
     </div>

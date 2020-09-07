@@ -1,0 +1,15 @@
+/* Might use something like this to color sections */
+.movie {  
+    width: 80%;
+    height: 100%; 
+    margin: auto;
+    background-color: rgb(79, 100, 43);
+    border: 3px solid rgb(190, 54, 5);  
+}
+.mode {  
+  width: 80%;
+  height: 100%; 
+  margin: auto;
+  background-color: rgb(129, 18, 86); 
+  border: 3px solid rgb(190, 54, 5); 
+}
