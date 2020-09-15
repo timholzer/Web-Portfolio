@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(14, 110, 139);
+    background-color: rgb(156, 143, 194);
   }
 h1 {
     text-align: center;
@@ -21,6 +21,6 @@ form {
     font-size: 24px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: auto;
-    background-color: rgb(187, 138, 32); 
-    border: 3px solid rgb(190, 54, 5); 
+    background-color:#ffc300; 
+    border: 3px solid #ff7b00; 
   }
