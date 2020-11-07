@@ -1,6 +1,8 @@
 document.getElementById("normalmode").addEventListener("click", function(){
     var stylesheet = document.getElementById('stylesheet');
     stylesheet.href = "css/homestyle.css";
+    //change to
+    //container.setAttribute("class", "container light")
 });
 document.getElementById("darkmode").addEventListener("click", function(){
     var stylesheet = document.getElementById('stylesheet');
