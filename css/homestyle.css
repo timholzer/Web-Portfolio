@@ -16,6 +16,9 @@ p {
     text-align: center;
 
   }
+  a {
+    color: rgb(39, 32, 105);
+  }
 form {
     text-align: center;
   }

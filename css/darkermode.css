@@ -18,6 +18,10 @@ p {
     color: white;
     opacity: .5;
   }
+  a {
+    color: white;
+    opacity: .5;
+  }
 form {
     text-align: center;
     color: white;
